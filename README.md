@@ -2,4 +2,4 @@
 I am studying frontend developer.
 
 blog - https://smallcow-web.tistory.com/ </br>
-portfolio - mbcgo12.github.io/portfolio/
+portfolio - <a>mbcgo12.github.io/portfolio/</a>
